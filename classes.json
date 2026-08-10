@@ -1,0 +1,15 @@
+{
+  "strategyTitleNodes": "div[class*='titleWrapper'][class*='mainTitle'] > div",
+      "performanceMetricCells": ".containerCell-EjaJhEW3",
+      "metricCellTitle": ".title-S0y2W2Na",
+      "metricCellContainer": ".container-AjgLIYWx",
+      "metricCellValue": ".value-AjgLIYWx",
+      "metricCellCurrency": ".currency-AjgLIYWx",
+      "metricCellChange": ".change-AjgLIYWx",
+      "dateRangeContentSpans": ".content-bYDQcOkp[data-overflow-tooltip-text]",
+      "strategyPanelTabButtons": ".tabs-n3UmcVi3 .tab-n3UmcVi3 button",
+      "strategyModalScrollableRoot": ".scrollable-vwgPOHG8",
+      "editableParameterLabelNodes":
+        ".scrollable-vwgPOHG8 > .content-Ugyu1_6u > .cell-Ugyu1_6u.first-Ugyu1_6u > .inner-Ugyu1_6u",
+      "legendSourceItems": "div[data-qa-id='legend-source-item']"
+}
