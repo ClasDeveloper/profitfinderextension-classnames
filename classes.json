@@ -10,6 +10,6 @@
       "strategyPanelTabButtons": ".tabs-n3UmcVi3 .tab-n3UmcVi3 button",
       "strategyModalScrollableRoot": ".scrollable-vwgPOHG8",
       "editableParameterLabelNodes":
-        ".scrollable-vwgPOHG8 > .content-Ugyu1_6u > .cell-Ugyu1_6u.first-Ugyu1_6u > .inner-Ugyu1_6u",
+        ".scrollable-GfmxFClN > .content-Ugyu1_6u > .cell-Ugyu1_6u.first-Ugyu1_6u > .inner-Ugyu1_6u",
       "legendSourceItems": "div[data-qa-id='legend-source-item']"
 }
