@@ -1,6 +1,6 @@
 {
   "strategyTitleNodes": "div[class*='titleWrapper'][class*='mainTitle'] > div",
-      "performanceMetricCells": ".containerCell-EjaJhEW3",
+      "performanceMetricCells": ".containerCell-dJrHEJrZ",
       "metricCellTitle": ".title-S0y2W2Na",
       "metricCellContainer": ".container-AjgLIYWx",
       "metricCellValue": ".value-AjgLIYWx",
